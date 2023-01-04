@@ -46,11 +46,11 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">While searching a distant world of shallow seas and archipelagos for traces of a galactic civilization, a group of explorers get stranded in the past and face a dangerous enemy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The fourth novel in &lt;a href=&quot;https://standardebooks.org/ebooks/andre-norton&quot;&gt;Andre Norton&apos;s&lt;/a&gt; &lt;a href=&quot;https://standardebooks.org/collections/time-traders&quot;&gt;Time Traders series&lt;/a&gt;, &lt;i&gt;Key Out of Time&lt;/i&gt; follows Ross Murdock, Gordon Ashe,  Karara Trehern, and the rest of a Terran settlement team as they search the planet Hawaika for traces of a galactic civilization. Everything they learned about Hawaika before embarking on their exploratory mission had been obtained from an ancient space-navigation guide. Yet, the world it described was nowhere in sight. Surrounded on all sides by shallow seas and archipelagos instead of the major landmasses they had expected to find, the Terrans must now try to reconcile the planet&apos;s past with its present. What could have transformed the planet so dramatically and what happened to the intelligent beings who had once colonized the planet? The key to this mystery lies somewhere in time.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19651</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/keyoutoftime00nort/mode/2up</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -58,28 +58,27 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/andre-norton_key-out-of-time</meta>
 		<dc:creator id="author">Andre Norton</dc:creator>
 		<meta property="file-as" refines="#author">Norton, Andre</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Andre Alice Norton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Andre_Norton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80126299</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Winslow Homer</dc:contributor>
+		<meta property="file-as" refines="#artist">Homer, Winslow</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Manuel Romero</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Romero, Manuel</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
