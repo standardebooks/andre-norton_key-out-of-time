@@ -81,6 +81,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Manuel Romero</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Romero, Manuel</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/swell089</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
