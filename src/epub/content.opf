@@ -50,7 +50,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19651</dc:source>
-		<dc:source>https://archive.org/details/keyoutoftime00nort/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/keyoutoftime00nort</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Key_Out_of_Time</meta>
